@@ -4,7 +4,7 @@ Jhon Jairo Urueta Alvarez ![](https://user-images.githubusercontent.com/18350557
 Programador frontend 🖥️
 ------------------------
 
-Ingeniero de sistemas, con amplia experiencia en el diseño profesional de páginas Web, basadas en HTML5, CSS y JavaScript, Bootstrap y React.js.
+Ingeniero de sistemas, con amplia experiencia en la maquetación de páginas web, a partir de diseños elaborados en Adobe XD y Figma. Utilizando lenguajes como HTML5, CSS, SASS, JavaScript y las librerías React.js, PUG, Bootstrap, AOS y FontAwesome. Manejo de control de versiones mediante Github. Cumplimiento de objetivos y solución de problemas. Sólida formación humanística, espíritu creativo y capacidad innovadora.
 
 *   🖥️  See my portfolio at [CV](http://jhonuru.github.io/website)
 *   ✉️  You can contact me at [jhonuru@gmail.com](mailto:jhonuru@gmail.com)
